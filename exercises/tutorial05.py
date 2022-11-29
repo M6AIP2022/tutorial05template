@@ -68,5 +68,3 @@ if __name__ == "__main__":
     explore_sort()
     print("\nExplore Priority Queue")
     explore_priority_queue()
-    print("\nExplore Update Value")
-    explore_update_value()
